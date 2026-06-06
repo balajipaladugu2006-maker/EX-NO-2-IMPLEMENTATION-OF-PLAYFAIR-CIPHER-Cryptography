@@ -1,6 +1,6 @@
 # EX-NO-2: IMPLEMENTATION OF PLAYFAIR CIPHER
-##NAME : Paladugu Venkata Balaji
-##REG.NO : 2305001024
+## NAME : Paladugu Venkata Balaji
+## REG.NO : 2305001024
 
 ## AIM:
  
